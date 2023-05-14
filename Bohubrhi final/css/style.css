@@ -1,0 +1,108 @@
+body {
+    font-family: cnnsans, "Helvetica Neue", Helvetica, Arial, Utkal, sans-serif;
+}
+
+a:hover {
+    text-decoration: none;
+    font-size: large;
+}
+
+/* This is banner section */
+.banner-container {
+    background-color: #6B7C8E;
+}
+
+.banner-column {
+    background-color: #625D58;
+}
+
+/* navbar srction  */
+
+.navbar-container {
+    background-color: #262b37;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+
+}
+
+/* about me section */
+
+.about-container {
+    background-color: #00bdbd;
+    justify-content: center;
+}
+
+/* this is education section  */
+
+.education-container {
+    background-color: #eeeeee;
+}
+
+.education {
+    text-align: center;
+    font-size: 30px;
+    color: #fb857f;
+
+}
+
+.circle {
+    width: 150px;
+    height: 150px;
+    background-color: #fb857f;
+    border-radius: 50%;
+    text-align: center;
+
+}
+
+/* this is project section  */
+
+
+
+/* this is portfolio section  */
+
+
+/* this is gallery section  */
+
+/* this is contact section  */
+
+#Gallery {
+    background-color: #6C757D;
+    margin-top: 10px;
+}
+
+/* this is contact section  */
+
+.contact-container {
+    background-color: #474d5d;
+    ;
+}
+
+.inner-form {
+    background-color: #6B7C8E;
+}
+
+.inner-form:hover {
+    background-color: white;
+}
+
+.btn:hover {
+    font-size: large;
+    color: black !important;
+}
+
+/* this is footer section  */
+
+.footer-container {
+    background-color: #2bb3dd;
+}
+
+.footer-icon {
+    text-align: center !important;
+    padding-left: 60px;
+}
+
+#icon-hover:hover {
+    color: blue;
+
+}
